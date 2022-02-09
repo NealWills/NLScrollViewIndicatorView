@@ -1,0 +1,2 @@
+# NLScrollViewIndicatorView
+简单的banner指示器
